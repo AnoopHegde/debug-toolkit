@@ -4,5 +4,5 @@ metadata:
   name: debug-toolkit 
 spec:
   containers:
-  - name: kiseruio 
-    image: debug-toolkit:latest
+  - name: debug 
+    image: kiseruio/debug-toolkit
