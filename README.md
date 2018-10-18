@@ -1,4 +1,6 @@
 # debug-toolkit
+### Status
+[![CircleCI](https://circleci.com/gh/kiseru-io/debug-toolkit.svg?style=svg)](https://circleci.com/gh/kiseru-io/debug-toolkit)
 
 A prebaked image containing useful tools such as -
 
